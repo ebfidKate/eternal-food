@@ -1,0 +1,31 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  background-color: #f0eae0;
+  font-family: 'Arial', sans-serif;
+  color: #333;
+  /* padding-top: 100px; */
+}
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #ffffff;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  text-align: center;
+}
+h1 {
+  color: #6a994e;
+}
+p {
+  font-size: 18px;
+}
+.soon {
+  color: #a98467;
+  font-weight: bold;
+}
