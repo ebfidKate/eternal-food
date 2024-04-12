@@ -23,9 +23,11 @@ a:hover {
 }
 
 body {
+  background-color: #f0eae0;
+  font-family: 'Arial', sans-serif;
+  color: #333;
   margin: 0;
   display: flex;
-  place-items: center;
   min-width: 320px;
   min-height: 100vh;
 }
@@ -66,3 +68,4 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+

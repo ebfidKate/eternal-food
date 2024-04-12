@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "author": {
+      "nickname": "Emmercomm",
+      "class": "mage",
+      "rank": "raider"
+    },
+    "name": "emmercomm recipe name",
+    "ingridients": [
+      {
+        "ingname": "ing1",
+        "quantity": "100 ml"
+      },
+      {
+        "ingname": "ing2",
+        "quantity": "100 gr"
+      },
+      {
+        "ingname": "ing3",
+        "quantity": "30 ml"
+      }
+    ],
+    "manual": "add ing1, ing2, ing3 and mix"
+  },
+  {
+    "id": 2,
+    "author": {
+      "nickname": "Ebfid",
+      "class": "priest",
+      "rank": "officer"
+    },
+    "name": "ebfid recipe name",
+    "ingridients": [
+      {
+        "ingname": "ing1",
+        "quantity": "100 ml"
+      },
+      {
+        "ingname": "ing2",
+        "quantity": "100 gr"
+      },
+      {
+        "ingname": "ing3",
+        "quantity": "30 ml"
+      }
+    ],
+    "manual": "add ing1, ing2, ing3 and mix"
+  },
+  {
+    "id": 3,
+    "author": {
+      "nickname": "Eveliona",
+      "class": "death knight",
+      "rank": "leader"
+    },
+    "name": "eveliona recipe name",
+    "ingridients": [
+      {
+        "ingname": "ing1",
+        "quantity": "100 ml"
+      },
+      {
+        "ingname": "ing2",
+        "quantity": "100 gr"
+      },
+      {
+        "ingname": "ing3",
+        "quantity": "30 ml"
+      }
+    ],
+    "manual": "add ing1, ing2, ing3 and mix"
+  }
+]
