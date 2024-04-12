@@ -1,0 +1,17 @@
+.recipe {
+  display: flex;
+  justify-content: space-between;
+}
+
+.recipe__image {
+  box-sizing: border-box;
+  width: 50%;
+  padding: 2rem;
+}
+
+.recipe__info {
+  box-sizing: border-box;
+
+  width: 50%;
+  padding: 2rem;
+}
