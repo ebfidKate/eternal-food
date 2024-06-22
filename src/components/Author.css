@@ -1,0 +1,57 @@
+.author {
+  font-family: "Great Vibes", cursive;
+  font-size: 32px;
+  text-align: right;
+  line-height: 24px;
+  padding-bottom: 16px;
+
+}
+
+.author--mage {
+  color: #69CCF0;
+}
+
+.author--deathknight {
+  color: #C41F3B;
+}
+
+.author--dracthyr {
+  color: #33937F;
+}
+
+.author--druid {
+  color: #FF7D0A;
+}
+
+.author--hunter {
+  color: #ABD473;
+}
+
+.author--monk {
+  color: #00FF96;
+}
+
+.author--paladin {
+  color: #F58CBA;
+}
+
+.author--priest {
+  color: #FFFFFF;
+  text-shadow: 1px 1px 2px gray;
+  /* text-shadow: 1px 1px 2px black; */
+
+}
+
+.author--rogue {
+  color: #FFF569;
+}
+
+.author--shaman {
+  color: #0070DE;
+}
+.author--warlock {
+  color: #9482C9;
+}
+.author--warrior {
+  color: #C79C6E;
+}

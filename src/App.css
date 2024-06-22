@@ -1,17 +1,8 @@
 #root {
   width: 100%;
-  height: calc(100vh - 4rem);
-  padding: 2rem;
+  /* height: calc(100vh - 4rem); */
   text-align: center;
   position: relative;
-}
-
-h1 {
-  color: #6a994e;
-}
-
-p {
-  font-size: 18px;
 }
 
 .page {
@@ -21,6 +12,7 @@ p {
 .scrollLocked {
   overflow: hidden;
 }
+
 .toc {
   display: flex;
   position: fixed;

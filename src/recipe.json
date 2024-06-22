@@ -2,37 +2,54 @@
   {
     "id": 1,
     "author": {
-      "nickname": "Emmercomm",
+      "nickname": "Эммерком",
       "class": "mage",
       "rank": "raider"
     },
-    "name": "emmercomm recipe name",
-    "image": "src/assets/shakshuka.webp",
-    "ingridients": [
+    "name": "Онигири",
+    "image": "assets/emmerkomm.webp",
+    "ingredients": [
       {
-        "ingname": "ing1",
-        "quantity": "100 ml"
+        "ingname": "Japanese short-grain rice",
+        "quantity": "300 gr"
       },
       {
-        "ingname": "ing2",
-        "quantity": "100 gr"
+        "ingname": "Water",
+        "quantity": "500 ml"
       },
       {
-        "ingname": "ing3",
-        "quantity": "30 ml"
+        "ingname": "Salt",
+        "quantity": "1 tsp"
+      },
+      {
+        "ingname": "Nori (seaweed) sheets",
+        "quantity": "2 sheets"
+      },
+      {
+        "ingname": "Filling (pickled plum, tuna with mayo)",
+        "quantity": "to taste"
       }
     ],
-    "manual": "add ing1, ing2, ing3 and mix"
+    "manual": [
+      "Rinse 300 gr of Japanese short-grain rice until the water runs clear.",
+      "Cook the rice with 500 ml of water.",
+      "Once cooked, let the rice cool slightly.",
+      "Wet your hands with water and sprinkle with salt.",
+      "Take a handful of rice and form a ball or triangle, making a small indentation in the middle.",
+      "Place your filling of choice in the indentation and cover it with more rice, shaping it firmly.",
+      "Wrap with a strip of nori and serve."
+    ]
   },
   {
     "id": 2,
     "author": {
-      "nickname": "Ebfid",
+      "nickname": "Эбфид",
       "class": "priest",
       "rank": "officer"
     },
-    "name": "ebfid recipe name",
-    "ingridients": [
+    "name": "Свинина в кисло-сладком соусе",
+    "image": "assets/ebfid.webp",
+    "ingredients": [
       {
         "ingname": "ing1",
         "quantity": "100 ml"
@@ -46,17 +63,20 @@
         "quantity": "30 ml"
       }
     ],
-    "manual": "add ing1, ing2, ing3 and mix"
+    "manual": [
+      "add ing1, ing2, ing3 and mix"
+    ]
   },
   {
     "id": 3,
     "author": {
-      "nickname": "Eveliona",
-      "class": "death knight",
+      "nickname": "Эвелиона",
+      "class": "deathknight",
       "rank": "leader"
     },
-    "name": "eveliona recipe name",
-    "ingridients": [
+    "name": "Шакшука",
+    "image": "assets/eveliona.webp",
+    "ingredients": [
       {
         "ingname": "ing1",
         "quantity": "100 ml"
@@ -70,6 +90,8 @@
         "quantity": "30 ml"
       }
     ],
-    "manual": "add ing1, ing2, ing3 and mix"
+    "manual": [
+      "add ing1, ing2, ing3 and mix"
+    ]
   }
 ]
